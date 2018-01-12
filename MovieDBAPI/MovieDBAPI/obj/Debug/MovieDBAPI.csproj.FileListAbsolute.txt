@@ -1,0 +1,8 @@
+c:\users\swathi\documents\visual studio 2015\Projects\MovieDBAPI\MovieDBAPI\bin\Debug\MovieDBAPI.dll.config
+c:\users\swathi\documents\visual studio 2015\Projects\MovieDBAPI\MovieDBAPI\bin\Debug\MovieDBAPI.dll
+c:\users\swathi\documents\visual studio 2015\Projects\MovieDBAPI\MovieDBAPI\bin\Debug\MovieDBAPI.pdb
+c:\users\swathi\documents\visual studio 2015\Projects\MovieDBAPI\MovieDBAPI\bin\Debug\Newtonsoft.Json.dll
+c:\users\swathi\documents\visual studio 2015\Projects\MovieDBAPI\MovieDBAPI\bin\Debug\Newtonsoft.Json.xml
+c:\users\swathi\documents\visual studio 2015\Projects\MovieDBAPI\MovieDBAPI\obj\Debug\MovieDBAPI.csprojResolveAssemblyReference.cache
+c:\users\swathi\documents\visual studio 2015\Projects\MovieDBAPI\MovieDBAPI\obj\Debug\MovieDBAPI.dll
+c:\users\swathi\documents\visual studio 2015\Projects\MovieDBAPI\MovieDBAPI\obj\Debug\MovieDBAPI.pdb
